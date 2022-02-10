@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/yukoi_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/yukoi_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/yukoi_slab_full"
+    }
+  }
+}

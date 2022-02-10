@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:deepveil"
+    },
+    "1": {
+      "item": "underveil:deepveil"
+    },
+    "2": {
+      "item": "underveil:deepveil"
+    }
+  },
+  "result": {
+    "item": "underveil:deepveil_slab",
+    "count": 6
+  }
+}

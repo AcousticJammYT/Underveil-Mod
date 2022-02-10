@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "underveil:blocks/veilshroom_block",
+    "particle": "underveil:blocks/veilshroom_block"
+  }
+}

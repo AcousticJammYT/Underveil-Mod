@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:yukoi_log"
+    },
+    "1": {
+      "item": "underveil:yukoi_log"
+    },
+    "2": {
+      "item": "underveil:yukoi_log"
+    },
+    "3": {
+      "item": "underveil:yukoi_log"
+    }
+  },
+  "result": {
+    "item": "underveil:yukoi_wood",
+    "count": 3
+  }
+}

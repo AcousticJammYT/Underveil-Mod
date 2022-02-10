@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "underveil:blocks/dustsandstone_bottom",
+    "particle": "underveil:blocks/dustsandstone_bottom"
+  }
+}

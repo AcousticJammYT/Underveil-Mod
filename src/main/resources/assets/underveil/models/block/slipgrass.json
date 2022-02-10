@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/slipdirt",
+    "up": "underveil:blocks/slipgrass_block_topog",
+    "north": "underveil:blocks/slipgrass_block_side",
+    "east": "underveil:blocks/slipgrass_block_side",
+    "south": "underveil:blocks/slipgrass_block_side",
+    "west": "underveil:blocks/slipgrass_block_side",
+    "particle": "underveil:blocks/slipdirt"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:ether_fragment"
+    },
+    "1": {
+      "item": "underveil:ether_fragment"
+    },
+    "2": {
+      "item": "underveil:ether_fragment"
+    },
+    "3": {
+      "item": "underveil:ether_fragment"
+    },
+    "4": {
+      "item": "underveil:ether_fragment"
+    },
+    "5": {
+      "item": "underveil:ether_fragment"
+    },
+    "6": {
+      "item": "underveil:ether_fragment"
+    },
+    "7": {
+      "item": "underveil:ether_fragment"
+    },
+    "8": {
+      "item": "underveil:ether_fragment"
+    }
+  },
+  "result": {
+    "item": "underveil:ether_block",
+    "count": 1
+  }
+}

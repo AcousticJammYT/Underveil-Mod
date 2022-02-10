@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "berry",
+    "customModelName": "Normal",
+    "name": "Darkberry",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "stackSize": 32,
+    "nutritionalValue": 3,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "DarkberryFoodEaten"
+    },
+    "onItemInInventoryTick": {
+      "name": "DarkberryRecipes"
+    }
+  }
+}

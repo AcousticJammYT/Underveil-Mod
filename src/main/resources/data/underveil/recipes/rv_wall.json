@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:roughveil"
+    },
+    "1": {
+      "item": "underveil:roughveil"
+    },
+    "2": {
+      "item": "underveil:roughveil"
+    },
+    "3": {
+      "item": "underveil:roughveil"
+    },
+    "4": {
+      "item": "underveil:roughveil"
+    },
+    "5": {
+      "item": "underveil:roughveil"
+    }
+  },
+  "result": {
+    "item": "underveil:roughveil_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "underveil:diamond_shard"
+    },
+    {
+      "item": "underveil:diamond_shard"
+    },
+    {
+      "item": "underveil:diamond_shard"
+    },
+    {
+      "item": "underveil:diamond_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

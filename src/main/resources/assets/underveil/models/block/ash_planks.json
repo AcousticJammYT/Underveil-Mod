@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "underveil:blocks/ash_planks",
+    "particle": "underveil:blocks/ash_planks"
+  }
+}

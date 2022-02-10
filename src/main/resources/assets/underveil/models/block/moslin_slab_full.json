@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "underveil:blocks/moslin_planks",
+    "top": "underveil:blocks/moslin_planks",
+    "side": "underveil:blocks/moslin_planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "underveil:custom/mine",
+  "textures": {
+    "all": "underveil:blocks/landmine",
+    "particle": "underveil:blocks/landmine",
+    "0": "underveil:blocks/landmine"
+  }
+}

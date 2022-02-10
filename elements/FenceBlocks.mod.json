@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AshFence"
+      },
+      {
+        "value": "CUSTOM:MoslinFence"
+      },
+      {
+        "value": "CUSTOM:WetOakFence"
+      },
+      {
+        "value": "CUSTOM:YukoiFence"
+      },
+      {
+        "value": "CUSTOM:RefleiFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

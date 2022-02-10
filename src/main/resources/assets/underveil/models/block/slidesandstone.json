@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/slidesandstone_bottom",
+    "up": "underveil:blocks/slidesandstone_top",
+    "north": "underveil:blocks/slidesandstone",
+    "east": "underveil:blocks/slidesandstone",
+    "south": "underveil:blocks/slidesandstone",
+    "west": "underveil:blocks/slidesandstone",
+    "particle": "underveil:blocks/slidesandstone_bottom"
+  }
+}

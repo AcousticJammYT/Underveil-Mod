@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "underveil:blocks/burnstone_ore",
+    "particle": "underveil:blocks/burnstone_ore"
+  }
+}

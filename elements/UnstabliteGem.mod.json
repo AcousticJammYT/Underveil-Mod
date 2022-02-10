@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "unstablite_gem",
+    "customModelName": "Normal",
+    "name": "Unstablite Gem",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "§7Unstablite is dangerous to even have."
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onItemInInventoryTick": {
+      "name": "UnstabliteGemItemInInventoryTick"
+    },
+    "onEntitySwing": {
+      "name": "UnstabliteGemEntitySwingsItem"
+    },
+    "hasDispenseBehavior": false
+  }
+}

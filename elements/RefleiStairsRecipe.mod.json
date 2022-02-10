@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      },
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      },
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      },
+      {
+        "value": "CUSTOM:RefleiPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RefleiStairs"
+    },
+    "name": "reflei_stairs_recipe",
+    "namespace": "mod"
+  }
+}

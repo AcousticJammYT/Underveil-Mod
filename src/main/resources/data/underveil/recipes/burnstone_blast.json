@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 1,
+  "ingredient": {
+    "item": "underveil:burnstoneore"
+  },
+  "result": {
+    "item": "underveil:burnstone_ingot"
+  }
+}

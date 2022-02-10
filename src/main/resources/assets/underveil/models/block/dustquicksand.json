@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/dustquicksand",
+    "up": "underveil:blocks/dustquicksand",
+    "north": "underveil:blocks/dustquicksand",
+    "east": "underveil:blocks/dustquicksand",
+    "south": "underveil:blocks/dustquicksand",
+    "west": "underveil:blocks/dustquicksand",
+    "particle": "underveil:blocks/dustquicksand"
+  }
+}

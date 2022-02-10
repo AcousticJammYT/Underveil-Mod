@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:slidesandstone"
+    },
+    "3": {
+      "item": "underveil:slidesandstone"
+    },
+    "4": {
+      "item": "underveil:slidesandstone"
+    },
+    "6": {
+      "item": "underveil:slidesandstone"
+    },
+    "7": {
+      "item": "underveil:slidesandstone"
+    },
+    "8": {
+      "item": "underveil:slidesandstone"
+    }
+  },
+  "result": {
+    "item": "underveil:slidesandstone_stairs",
+    "count": 4
+  }
+}

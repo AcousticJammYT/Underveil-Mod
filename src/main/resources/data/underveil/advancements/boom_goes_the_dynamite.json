@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:unstablite_snowball"
+    },
+    "title": {
+      "translate": "advancements.boom_goes_the_dynamite.title"
+    },
+    "description": {
+      "translate": "advancements.boom_goes_the_dynamite.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "boom_goes_the_dynamite": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "underveil:booming_economy"
+}

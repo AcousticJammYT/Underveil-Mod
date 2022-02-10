@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/slowdirt",
+    "up": "underveil:blocks/slowgrass_block_top",
+    "north": "underveil:blocks/slowgrass_block_side",
+    "east": "underveil:blocks/slowgrass_block_side",
+    "south": "underveil:blocks/slowgrass_block_side",
+    "west": "underveil:blocks/slowgrass_block_side",
+    "particle": "underveil:blocks/slowdirt"
+  }
+}

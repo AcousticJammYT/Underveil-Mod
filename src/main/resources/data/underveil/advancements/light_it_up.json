@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:iceball"
+    },
+    "title": {
+      "translate": "advancements.light_it_up.title"
+    },
+    "description": {
+      "translate": "advancements.light_it_up.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "light_it_up": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "underveil:key_to_the_veil"
+}

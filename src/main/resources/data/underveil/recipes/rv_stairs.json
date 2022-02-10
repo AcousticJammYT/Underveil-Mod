@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:roughveil"
+    },
+    "3": {
+      "item": "underveil:roughveil"
+    },
+    "4": {
+      "item": "underveil:roughveil"
+    },
+    "6": {
+      "item": "underveil:roughveil"
+    },
+    "7": {
+      "item": "underveil:roughveil"
+    },
+    "8": {
+      "item": "underveil:roughveil"
+    }
+  },
+  "result": {
+    "item": "underveil:roughveil_stairs",
+    "count": 4
+  }
+}

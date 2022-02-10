@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:wetoak_log"
+    }
+  ],
+  "result": {
+    "item": "underveil:wet_oak_planks",
+    "count": 4
+  }
+}

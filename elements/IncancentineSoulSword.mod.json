@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "incancentine_soul_sword",
+    "customModelName": "Normal",
+    "name": "Incancentine Soul Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 2.5,
+    "enchantability": 14,
+    "damageVsEntity": 11.5,
+    "usageCount": 2561,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:IncancentineIngot"
+      },
+      {
+        "value": "CUSTOM:EtherSoul"
+      },
+      {
+        "value": "CUSTOM:EtherFragment"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

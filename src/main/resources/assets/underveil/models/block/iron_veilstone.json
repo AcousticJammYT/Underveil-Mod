@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/irony_veilstone",
+    "up": "underveil:blocks/irony_veilstone",
+    "north": "underveil:blocks/irony_veilstone",
+    "east": "underveil:blocks/irony_veilstone",
+    "south": "underveil:blocks/irony_veilstone",
+    "west": "underveil:blocks/irony_veilstone",
+    "particle": "underveil:blocks/irony_veilstone"
+  }
+}

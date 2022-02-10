@@ -1,0 +1,118 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:BurnstoneIngot"
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 168,
+          "y": 93
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fire.png",
+          "use1Xscale": false,
+          "name": "fire.png",
+          "x": 170,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 168,
+          "y": 59
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "name": "arrow.png",
+          "x": 197,
+          "y": 60
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 236,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Smelt",
+          "onClick": {
+            "name": "FlashFurnaceProcedure"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Smelt",
+          "x": 201,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Flash Furnace",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Flash Furnace",
+          "x": 131,
+          "y": 43
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "burnstone_ingot.png",
+          "use1Xscale": false,
+          "name": "burnstone_ingot.png",
+          "x": 169,
+          "y": 94
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

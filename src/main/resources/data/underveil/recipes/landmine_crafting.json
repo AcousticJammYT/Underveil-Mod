@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "underveil:darkite_ingot"
+    },
+    "3": {
+      "item": "underveil:darkite_ingot"
+    },
+    "4": {
+      "item": "underveil:unstablite_gem"
+    },
+    "5": {
+      "item": "underveil:darkite_ingot"
+    },
+    "7": {
+      "item": "underveil:darkite_ingot"
+    }
+  },
+  "result": {
+    "item": "underveil:landmine",
+    "count": 1
+  }
+}

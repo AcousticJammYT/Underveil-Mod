@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/forging_table_bottom",
+    "up": "underveil:blocks/forging_table_top",
+    "north": "underveil:blocks/forging_table_side",
+    "east": "underveil:blocks/forging_table_side",
+    "south": "underveil:blocks/forging_table_side",
+    "west": "underveil:blocks/forging_table_side",
+    "particle": "underveil:blocks/forging_table_bottom"
+  }
+}

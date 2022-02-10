@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:cereal_full"
+    },
+    "title": {
+      "translate": "advancements.a_hearty_breakfast.title"
+    },
+    "description": {
+      "translate": "advancements.a_hearty_breakfast.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_hearty_breakfast": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:cereal_full"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "underveil:callofthe_veil"
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 80,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:forge:veno_smelt"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:VenomiteGem"
+    },
+    "name": "venomite_blast",
+    "namespace": "mod"
+  }
+}

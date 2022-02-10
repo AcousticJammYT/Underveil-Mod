@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/dustsandstone_top",
+    "up": "underveil:blocks/dustsandstone_top",
+    "north": "underveil:blocks/cut_dustsandstone",
+    "east": "underveil:blocks/cut_dustsandstone",
+    "south": "underveil:blocks/cut_dustsandstone",
+    "west": "underveil:blocks/cut_dustsandstone",
+    "particle": "underveil:blocks/dustsandstone_top"
+  }
+}

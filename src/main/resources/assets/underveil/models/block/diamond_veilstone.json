@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/diamond_veilstone",
+    "up": "underveil:blocks/diamond_veilstone",
+    "north": "underveil:blocks/diamond_veilstone",
+    "east": "underveil:blocks/diamond_veilstone",
+    "south": "underveil:blocks/diamond_veilstone",
+    "west": "underveil:blocks/diamond_veilstone",
+    "particle": "underveil:blocks/diamond_veilstone"
+  }
+}

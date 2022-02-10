@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:ash_log",
+    "underveil:wet_oak_wood",
+    "underveil:ash_wood",
+    "underveil:yukoi_log",
+    "underveil:reflei_wood",
+    "underveil:wet_oak_log",
+    "underveil:reflei_log",
+    "underveil:yukoi_wood",
+    "underveil:moslin_log",
+    "underveil:moslin_wood"
+  ]
+}

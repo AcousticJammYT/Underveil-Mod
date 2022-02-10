@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/slidesandstone_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/slidesandstone_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/slidesandstone_slab_full"
+    }
+  }
+}

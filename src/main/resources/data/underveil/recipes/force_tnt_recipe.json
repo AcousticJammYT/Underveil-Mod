@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:darkite_ingot"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "item": "underveil:darkite_ingot"
+    }
+  },
+  "result": {
+    "item": "underveil:force_tnt",
+    "count": 1
+  }
+}

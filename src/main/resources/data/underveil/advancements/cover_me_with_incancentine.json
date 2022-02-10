@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:incancentine_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.cover_me_with_incancentine.title"
+    },
+    "description": {
+      "translate": "advancements.cover_me_with_incancentine.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cover_me_with_incancentine": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "underveil:on_the_right_track"
+}

@@ -1,0 +1,56 @@
+{
+  "diary2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:disc2",
+        "stream": true
+      }
+    ]
+  },
+  "diary3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:diary3",
+        "stream": true
+      }
+    ]
+  },
+  "diary6": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:diary6",
+        "stream": true
+      }
+    ]
+  },
+  "diary1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:diary1",
+        "stream": true
+      }
+    ]
+  },
+  "diary4": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:diary4",
+        "stream": true
+      }
+    ]
+  },
+  "diary5": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "underveil:diary5",
+        "stream": true
+      }
+    ]
+  }
+}

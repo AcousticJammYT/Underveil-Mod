@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WetOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:WetOakPlanks"
+      },
+      {
+        "value": "CUSTOM:WetOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:WetOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WetOakFence"
+    },
+    "name": "wet_oak_fence_recipe",
+    "namespace": "mod"
+  }
+}

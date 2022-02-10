@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "underveil:blocks/darkite_door_bottom",
+    "top": "underveil:blocks/darkite_door_top"
+  }
+}

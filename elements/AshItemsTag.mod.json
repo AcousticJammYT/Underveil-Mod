@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AshWood"
+      },
+      {
+        "value": "CUSTOM:AshLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "ash_log",
+    "namespace": "forge"
+  }
+}

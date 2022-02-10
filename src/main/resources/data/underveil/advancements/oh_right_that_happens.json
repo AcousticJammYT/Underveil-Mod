@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:unstablite_block"
+    },
+    "title": {
+      "translate": "advancements.oh_right_that_happens.title"
+    },
+    "description": {
+      "translate": "advancements.oh_right_that_happens.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oh_right_that_happens": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "underveil:booming_economy"
+}

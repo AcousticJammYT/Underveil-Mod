@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/moslin_log_top",
+    "up": "underveil:blocks/moslin_log_top",
+    "north": "underveil:blocks/moslin_log_side",
+    "east": "underveil:blocks/moslin_log_side",
+    "south": "underveil:blocks/moslin_log_side",
+    "west": "underveil:blocks/moslin_log_side",
+    "particle": "underveil:blocks/moslin_log_top"
+  }
+}

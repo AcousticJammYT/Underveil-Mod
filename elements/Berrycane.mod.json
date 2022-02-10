@@ -1,0 +1,100 @@
+{
+  "_fv": 24,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "berry_cane",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "berry_cane",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "growapable",
+    "staticPlantGenerationType": "Flower",
+    "suspiciousStewEffect": "SATURATION",
+    "suspiciousStewDuration": 0,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 4,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [],
+    "name": "Berrycane",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:UnderveilDimension"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:FlisgrassPlains"
+      },
+      {
+        "value": "CUSTOM:FlismolOcean"
+      },
+      {
+        "value": "CUSTOM:Highlands"
+      },
+      {
+        "value": "CUSTOM:JumpgrassMountains"
+      },
+      {
+        "value": "CUSTOM:PoigrassPlains"
+      },
+      {
+        "value": "CUSTOM:SlipgrassMountains"
+      },
+      {
+        "value": "CUSTOM:SlowgrassPlains"
+      }
+    ],
+    "patchSize": 64
+  }
+}

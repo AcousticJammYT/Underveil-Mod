@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:venomite_gem"
+    },
+    "title": {
+      "translate": "advancements.smart_trade.title"
+    },
+    "description": {
+      "translate": "advancements.smart_trade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "smart_trade": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "underveil:callofthe_veil"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "underveil:blocks/wet_oak_planks",
+    "top": "underveil:blocks/wet_oak_planks",
+    "side": "underveil:blocks/wet_oak_planks"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:reflei_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:reflei_button",
+    "count": 1
+  }
+}

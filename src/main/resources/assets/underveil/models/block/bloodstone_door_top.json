@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "underveil:blocks/bloodstone_door_bottom",
+    "top": "underveil:blocks/bloodstone_door_top"
+  }
+}

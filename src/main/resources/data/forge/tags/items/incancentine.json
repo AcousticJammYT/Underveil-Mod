@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:incancentine_ingot",
+    "underveil:incancentine_poiblade",
+    "underveil:incancentine_bomb_sword",
+    "underveil:incancentine_pickaxe",
+    "underveil:incancentine_armor_helmet",
+    "underveil:incancentine_sword",
+    "underveil:incancentine_soul_sword",
+    "underveil:demonic_incancentine_sword",
+    "underveil:incancentine_axe",
+    "underveil:incancentine_armor_chestplate",
+    "underveil:incancentine_slowing_sword",
+    "underveil:incancentine_wither_blade",
+    "underveil:incancentine_lifesword",
+    "underveil:incancentine_shovel",
+    "underveil:incancentine_armor_leggings",
+    "underveil:incancentine_ore",
+    "underveil:hardened_incancentine_sword",
+    "underveil:incancentine_block",
+    "underveil:raw_incancentine",
+    "underveil:incancentine_armor_boots",
+    "underveil:incancentine_hoe"
+  ]
+}

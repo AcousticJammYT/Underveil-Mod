@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Mind Control",
+    "splashName": "Splash Potion of Mind Control",
+    "lingeringName": "Lingering Potion of Mind Control",
+    "arrowName": "Arrow of Mind Control",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:MindControl"
+        },
+        "duration": 1,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

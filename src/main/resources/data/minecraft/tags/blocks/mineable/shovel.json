@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:slipgrass",
+    "underveil:slip_dirt",
+    "underveil:flisgrass",
+    "underveil:poigrass",
+    "underveil:poidirt",
+    "underveil:slowgrass",
+    "underveil:slowdirt",
+    "underveil:ashgravel"
+  ]
+}

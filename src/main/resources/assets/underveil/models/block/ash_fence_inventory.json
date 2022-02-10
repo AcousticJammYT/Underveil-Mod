@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "underveil:blocks/ash_planks",
+    "particle": "underveil:blocks/ash_planks"
+  }
+}

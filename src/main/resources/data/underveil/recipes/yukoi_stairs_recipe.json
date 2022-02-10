@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:yukoi_planks"
+    },
+    "3": {
+      "item": "underveil:yukoi_planks"
+    },
+    "4": {
+      "item": "underveil:yukoi_planks"
+    },
+    "6": {
+      "item": "underveil:yukoi_planks"
+    },
+    "7": {
+      "item": "underveil:yukoi_planks"
+    },
+    "8": {
+      "item": "underveil:yukoi_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:yukoi_stairs",
+    "count": 4
+  }
+}

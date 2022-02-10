@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cerealfull",
+    "customModelName": "Normal",
+    "name": "Veil Cereal",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Uses left: 3"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 6,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "CUSTOM:CerealMost"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

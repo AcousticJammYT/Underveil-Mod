@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MoslinWood"
+      },
+      {
+        "value": "CUSTOM:MoslinLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "moslin_log",
+    "namespace": "forge"
+  }
+}

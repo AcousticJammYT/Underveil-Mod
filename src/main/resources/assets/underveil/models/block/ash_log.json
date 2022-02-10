@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/ash_log_top",
+    "up": "underveil:blocks/ash_log_top",
+    "north": "underveil:blocks/ash_log_side",
+    "east": "underveil:blocks/ash_log_side",
+    "south": "underveil:blocks/ash_log_side",
+    "west": "underveil:blocks/ash_log_side",
+    "particle": "underveil:blocks/ash_log_top"
+  }
+}

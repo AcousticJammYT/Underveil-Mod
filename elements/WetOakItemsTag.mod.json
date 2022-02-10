@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WetOakWood"
+      },
+      {
+        "value": "CUSTOM:WetOakLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "wetoak_log",
+    "namespace": "forge"
+  }
+}

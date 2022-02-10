@@ -1,0 +1,89 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:ArcherDweller"
+      },
+      {
+        "value": "CUSTOM:DarkenedSwordsman"
+      },
+      {
+        "value": "CUSTOM:DarkenedSwordswoman"
+      },
+      {
+        "value": "CUSTOM:EverlastingKing"
+      },
+      {
+        "value": "CUSTOM:LastingKing"
+      },
+      {
+        "value": "CUSTOM:SwordswomanDweller"
+      },
+      {
+        "value": "CUSTOM:VeilKing"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityIllusionIllager"
+      },
+      {
+        "value": "EntityPiglin"
+      },
+      {
+        "value": "EntityPiglinBrute"
+      },
+      {
+        "value": "EntityPillager"
+      },
+      {
+        "value": "EntityPlayer"
+      },
+      {
+        "value": "EntityPlayerMP"
+      },
+      {
+        "value": "EntityVillager"
+      },
+      {
+        "value": "EntityVindicator"
+      },
+      {
+        "value": "EntityWanderingTrader"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityZombieVillager"
+      },
+      {
+        "value": "EntityPigZombie"
+      },
+      {
+        "value": "CUSTOM:PrinceOfTheVeil"
+      },
+      {
+        "value": "CUSTOM:PrincessOfTheVeil"
+      }
+    ],
+    "name": "human",
+    "namespace": "forge"
+  }
+}

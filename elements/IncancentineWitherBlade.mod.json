@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "incancentine_wither_blade",
+    "customModelName": "Normal",
+    "name": "Incancentine Wither Blade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 6.0,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 8.0,
+    "usageCount": 2061,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:IncancentineIngot"
+      },
+      {
+        "value": "CUSTOM:VenomiteGem"
+      },
+      {
+        "value": "CUSTOM:EtherFragment"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IncancentineWitherBladeLivingEntityIsHitWithTool"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:deepveil"
+    },
+    "3": {
+      "item": "underveil:deepveil"
+    },
+    "4": {
+      "item": "underveil:deepveil"
+    },
+    "6": {
+      "item": "underveil:deepveil"
+    },
+    "7": {
+      "item": "underveil:deepveil"
+    },
+    "8": {
+      "item": "underveil:deepveil"
+    }
+  },
+  "result": {
+    "item": "underveil:deepveil_stairs",
+    "count": 4
+  }
+}

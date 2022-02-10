@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:darkite_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "underveil:darkite_ingot"
+    }
+  },
+  "result": {
+    "item": "underveil:quick_slash",
+    "count": 1
+  }
+}

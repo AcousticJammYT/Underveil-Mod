@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      },
+      {
+        "value": "CUSTOM:YukoiPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:YukoiTrapDoor"
+    },
+    "name": "yukoi_trap_door_recipe",
+    "namespace": "mod"
+  }
+}

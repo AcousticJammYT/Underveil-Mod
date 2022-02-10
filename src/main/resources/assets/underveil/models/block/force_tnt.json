@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/force_tnt_bottom",
+    "up": "underveil:blocks/force_tnt_top",
+    "north": "underveil:blocks/force_tnt",
+    "east": "underveil:blocks/force_tnt",
+    "south": "underveil:blocks/force_tnt",
+    "west": "underveil:blocks/force_tnt",
+    "particle": "underveil:blocks/force_tnt_bottom"
+  }
+}

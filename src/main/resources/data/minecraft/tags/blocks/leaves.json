@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:ash_leaves",
+    "underveil:wet_oak_leaves",
+    "underveil:moslin_leaves",
+    "underveil:reflei_leaves",
+    "underveil:yukoi_leaves"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:darkite_ingot"
+    },
+    "1": {
+      "item": "underveil:bloodstone_armor_helmet"
+    },
+    "2": {
+      "item": "underveil:darkite_ingot"
+    }
+  },
+  "result": {
+    "item": "underveil:armored_bloodstone_armor_helmet",
+    "count": 1
+  }
+}

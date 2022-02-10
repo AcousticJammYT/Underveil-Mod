@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:burnstone_ingot"
+    },
+    "title": {
+      "translate": "advancements.burning_hands.title"
+    },
+    "description": {
+      "translate": "advancements.burning_hands.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "burning_hands": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:burnstone_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "underveil:burn_block_recipe",
+      "underveil:burn_ing_recipe",
+      "underveil:flash_furnace_recipe",
+      "underveil:burnstone_apple_recipe"
+    ]
+  },
+  "parent": "underveil:callofthe_veil"
+}

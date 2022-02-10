@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "underveil:blocks/veilstone_bricks",
+    "particle": "underveil:blocks/veilstone_bricks"
+  }
+}

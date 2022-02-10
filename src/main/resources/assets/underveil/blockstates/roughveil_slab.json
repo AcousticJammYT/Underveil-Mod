@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/roughveil_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/roughveil_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/roughveil_slab_full"
+    }
+  }
+}

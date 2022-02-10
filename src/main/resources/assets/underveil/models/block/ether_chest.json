@@ -1,0 +1,14 @@
+{
+  "parent": "underveil:custom/chest_block",
+  "textures": {
+    "all": "underveil:blocks/chest_block_top",
+    "particle": "underveil:blocks/chest_block_top",
+    "top": "underveil:blocks/chest_block_top",
+    "left": "underveil:blocks/chest_block_left",
+    "bottom": "underveil:blocks/chest_block_top",
+    "back": "underveil:blocks/chest_block_left",
+    "lock": "underveil:blocks/chest_block_lock",
+    "front": "underveil:blocks/chest_block_front",
+    "right": "underveil:blocks/chest_block_left"
+  }
+}

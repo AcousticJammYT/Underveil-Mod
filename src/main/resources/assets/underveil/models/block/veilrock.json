@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/veilrock",
+    "up": "underveil:blocks/veilrock",
+    "north": "underveil:blocks/veilrock",
+    "east": "underveil:blocks/veilrock",
+    "south": "underveil:blocks/veilrock",
+    "west": "underveil:blocks/veilrock",
+    "particle": "underveil:blocks/veilrock"
+  }
+}

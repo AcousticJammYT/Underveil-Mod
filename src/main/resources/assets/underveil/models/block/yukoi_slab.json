@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "underveil:blocks/yukoi_planks",
+    "top": "underveil:blocks/yukoi_planks",
+    "side": "underveil:blocks/yukoi_planks"
+  }
+}

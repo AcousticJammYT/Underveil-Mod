@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BurnstoneIngot"
+      },
+      {
+        "value": "CUSTOM:BurnstoneApple"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
+      },
+      {
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.WALL_TORCH"
+      },
+      {
+        "value": "Blocks.SOUL_TORCH"
+      },
+      {
+        "value": "Blocks.SOUL_WALL_TORCH"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.SOUL_FIRE"
+      },
+      {
+        "value": "Blocks.LANTERN"
+      },
+      {
+        "value": "Blocks.SOUL_LANTERN"
+      },
+      {
+        "value": "Blocks.CAMPFIRE"
+      },
+      {
+        "value": "Blocks.SOUL_CAMPFIRE"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_WALL_TORCH"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "CUSTOM:BurnstoneBlock"
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "frostburn_items",
+    "namespace": "mod"
+  }
+}

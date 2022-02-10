@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "underveil:bloodstone_block"
+    }
+  ],
+  "result": {
+    "item": "underveil:bloodstone_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BloodstoneOre"
+      },
+      {
+        "value": "CUSTOM:RawBloodstone"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "bloodstone_unsmelt",
+    "namespace": "forge"
+  }
+}

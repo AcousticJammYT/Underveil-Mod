@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/moslin_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/moslin_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/moslin_slab_full"
+    }
+  }
+}

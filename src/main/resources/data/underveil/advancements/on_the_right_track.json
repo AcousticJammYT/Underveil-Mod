@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:incancentine_ingot"
+    },
+    "title": {
+      "translate": "advancements.on_the_right_track.title"
+    },
+    "description": {
+      "translate": "advancements.on_the_right_track.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "on_the_right_track": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:incancentine_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "underveil:incancetine_block"
+    ]
+  },
+  "parent": "underveil:callofthe_veil"
+}

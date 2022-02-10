@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:reflei_planks"
+    },
+    "3": {
+      "item": "underveil:reflei_planks"
+    },
+    "4": {
+      "item": "underveil:reflei_planks"
+    },
+    "6": {
+      "item": "underveil:reflei_planks"
+    },
+    "7": {
+      "item": "underveil:reflei_planks"
+    },
+    "8": {
+      "item": "underveil:reflei_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:reflei_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diary2",
+    "name": "Audio Diary 2",
+    "description": "The second audio diary.",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "music": {
+      "value": "CUSTOM:diary2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

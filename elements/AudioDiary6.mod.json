@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diary6",
+    "name": "Audio Diary 6",
+    "description": "The sixth audio diary.",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "music": {
+      "value": "CUSTOM:diary6"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

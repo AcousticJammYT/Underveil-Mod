@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Potion Of Auto-Jump",
+    "splashName": "Splash Potion of Potion Of Auto-Jump",
+    "lingeringName": "Lingering Potion of Potion Of Auto-Jump",
+    "arrowName": "Arrow of Potion Of Auto-Jump",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:AutoJump"
+        },
+        "duration": 9600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

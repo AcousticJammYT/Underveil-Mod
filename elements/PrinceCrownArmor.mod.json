@@ -1,0 +1,75 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "princecrown_head",
+    "enableBody": false,
+    "textureBody": "princecrown_body",
+    "enableLeggings": false,
+    "textureLeggings": "princecrown_leggings",
+    "enableBoots": true,
+    "textureBoots": "princecrown_boots",
+    "onHelmetTick": {
+      "name": "PrinceCrownArmorHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "PrinceCrownArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "armorTextureFile": "princecrown_",
+    "helmetName": "Prince's Crown",
+    "bodyName": "PrinceCrown Chestplate",
+    "leggingsName": "PrinceCrown Leggings",
+    "bootsName": "Princess's Shoes",
+    "helmetSpecialInfo": [
+      "A one-of-a-kind item stolen from the Veil Prince."
+    ],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [
+      "A one-of-a-kind item stolen from the Veil Princess."
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 200,
+    "damageValueHelmet": 2,
+    "damageValueBody": 5,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:DarkiteIngot"
+      },
+      {
+        "value": "CUSTOM:VenomiteGem"
+      }
+    ]
+  }
+}

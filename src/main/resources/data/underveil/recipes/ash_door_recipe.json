@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:ash_planks"
+    },
+    "1": {
+      "item": "underveil:ash_planks"
+    },
+    "2": {
+      "item": "underveil:ash_planks"
+    },
+    "3": {
+      "item": "underveil:ash_planks"
+    },
+    "4": {
+      "item": "underveil:ash_planks"
+    },
+    "5": {
+      "item": "underveil:ash_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:ash_door",
+    "count": 3
+  }
+}

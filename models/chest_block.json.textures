@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "chest_block_top",
+        "left": "chest_block_left",
+        "bottom": "chest_block_top",
+        "back": "chest_block_left",
+        "lock": "chest_block_lock",
+        "front": "chest_block_front",
+        "right": "chest_block_left"
+      },
+      "name": "default"
+    },
+    "soul": {
+      "map": {
+        "top": "soulchest_top",
+        "left": "soulchest_side",
+        "bottom": "soulchest_top",
+        "back": "soulchest_side",
+        "lock": "soulchest_handle",
+        "front": "soulchest_front",
+        "right": "soulchest_side"
+      },
+      "name": "soul"
+    },
+    "unstablite": {
+      "map": {
+        "top": "unstablite_chest_top",
+        "left": "unstablite_chest_side",
+        "bottom": "unstablite_chest_top",
+        "back": "unstablite_chest_side",
+        "lock": "unstablite_chest_notch",
+        "front": "unstablite_chest",
+        "right": "unstablite_chest_side"
+      },
+      "name": "unstablite"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "underveil:blocks/reflei_trapdoor",
+    "particle": "underveil:blocks/reflei_trapdoor"
+  }
+}

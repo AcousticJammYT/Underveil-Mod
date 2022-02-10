@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/wet_oak_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/wet_oak_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/wet_oak_slab_full"
+    }
+  }
+}

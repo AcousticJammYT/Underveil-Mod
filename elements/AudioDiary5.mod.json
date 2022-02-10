@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diary5",
+    "name": "Audio Diary 5",
+    "description": "The fifth audio diary.",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "music": {
+      "value": "CUSTOM:diary5"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

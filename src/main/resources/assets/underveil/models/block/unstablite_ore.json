@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/unstablite_ore",
+    "up": "underveil:blocks/unstablite_ore",
+    "north": "underveil:blocks/unstablite_ore",
+    "east": "underveil:blocks/unstablite_ore",
+    "south": "underveil:blocks/unstablite_ore",
+    "west": "underveil:blocks/unstablite_ore",
+    "particle": "underveil:blocks/unstablite_ore"
+  }
+}

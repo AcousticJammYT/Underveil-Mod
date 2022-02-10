@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diary4",
+    "name": "Audio Diary 4",
+    "description": "The fourth audio diary.",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "music": {
+      "value": "CUSTOM:diary4"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

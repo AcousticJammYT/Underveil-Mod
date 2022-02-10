@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "underveil:blocks/berry_cane",
+    "particle": "underveil:blocks/berry_cane"
+  }
+}

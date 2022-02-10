@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      },
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      },
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      },
+      {
+        "value": "CUSTOM:MoslinPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MoslinStairs"
+    },
+    "name": "moslin_stairs_recipe",
+    "namespace": "mod"
+  }
+}

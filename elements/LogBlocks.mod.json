@@ -1,0 +1,44 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AshLog"
+      },
+      {
+        "value": "CUSTOM:AshWood"
+      },
+      {
+        "value": "CUSTOM:MoslinLog"
+      },
+      {
+        "value": "CUSTOM:MoslinWood"
+      },
+      {
+        "value": "CUSTOM:WetOakLog"
+      },
+      {
+        "value": "CUSTOM:WetOakWood"
+      },
+      {
+        "value": "CUSTOM:YukoiLog"
+      },
+      {
+        "value": "CUSTOM:YukoiWood"
+      },
+      {
+        "value": "CUSTOM:RefleiWood"
+      },
+      {
+        "value": "CUSTOM:RefleiLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

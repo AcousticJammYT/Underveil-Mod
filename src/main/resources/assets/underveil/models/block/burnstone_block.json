@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/burnstone_block",
+    "up": "underveil:blocks/burnstone_block",
+    "north": "underveil:blocks/burnstone_block",
+    "east": "underveil:blocks/burnstone_block",
+    "south": "underveil:blocks/burnstone_block",
+    "west": "underveil:blocks/burnstone_block",
+    "particle": "underveil:blocks/burnstone_block"
+  }
+}

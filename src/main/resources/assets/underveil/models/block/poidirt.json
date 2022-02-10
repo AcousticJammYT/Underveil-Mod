@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/poidirt",
+    "up": "underveil:blocks/poidirt",
+    "north": "underveil:blocks/poidirt",
+    "east": "underveil:blocks/poidirt",
+    "south": "underveil:blocks/poidirt",
+    "west": "underveil:blocks/poidirt",
+    "particle": "underveil:blocks/poidirt"
+  }
+}

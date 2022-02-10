@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "underveil:blocks/wet_oak_planks",
+    "particle": "underveil:blocks/wet_oak_planks"
+  }
+}

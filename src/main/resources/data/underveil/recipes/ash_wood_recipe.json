@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:ash_log"
+    },
+    "1": {
+      "item": "underveil:ash_log"
+    },
+    "2": {
+      "item": "underveil:ash_log"
+    },
+    "3": {
+      "item": "underveil:ash_log"
+    }
+  },
+  "result": {
+    "item": "underveil:ash_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/reflei_log_top",
+    "up": "underveil:blocks/reflei_log_top",
+    "north": "underveil:blocks/reflei_log_side",
+    "east": "underveil:blocks/reflei_log_side",
+    "south": "underveil:blocks/reflei_log_side",
+    "west": "underveil:blocks/reflei_log_side",
+    "particle": "underveil:blocks/reflei_log_top"
+  }
+}

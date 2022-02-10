@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Not specified"
+
+[[mods]]
+modId="underveil"
+version="1.0.0"
+displayName="Underveil"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="AcousticJamm, MCreator"
+description='''
+A new dimension with a brand new cast! Discover Burnstone Ore, trade with dwellers, and even fight the king of pure destruction. Plus, learn the lore through audio diaries and piece everything together. VA: LycheeWoo, TwitchyDC, Juneberry.
+'''
+
+[[dependencies.underveil]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

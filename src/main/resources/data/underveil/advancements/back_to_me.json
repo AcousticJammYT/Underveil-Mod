@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:ether_pearl"
+    },
+    "title": {
+      "translate": "advancements.back_to_me.title"
+    },
+    "description": {
+      "translate": "advancements.back_to_me.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "back_to_me": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "underveil:a_fragment_of_history"
+}

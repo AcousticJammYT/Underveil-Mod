@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "underveil:incancentine_block"
+    }
+  ],
+  "result": {
+    "item": "underveil:incancentine_ingot",
+    "count": 9
+  }
+}

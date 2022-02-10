@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:moslin_log"
+    }
+  ],
+  "result": {
+    "item": "underveil:moslin_planks",
+    "count": 4
+  }
+}

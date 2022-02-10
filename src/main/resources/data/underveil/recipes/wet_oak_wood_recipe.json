@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:wet_oak_log"
+    },
+    "1": {
+      "item": "underveil:wet_oak_log"
+    },
+    "2": {
+      "item": "underveil:wet_oak_log"
+    },
+    "3": {
+      "item": "underveil:wet_oak_log"
+    }
+  },
+  "result": {
+    "item": "underveil:wet_oak_wood",
+    "count": 3
+  }
+}

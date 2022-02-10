@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "underveil:block/wet_oak_pressure_plate"
+    },
+    "powered=true": {
+      "model": "underveil:block/wet_oak_pressure_plate_down"
+    }
+  }
+}

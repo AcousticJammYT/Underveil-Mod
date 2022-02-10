@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:flash_furnace"
+    },
+    "title": {
+      "translate": "advancements.in_a_flash.title"
+    },
+    "description": {
+      "translate": "advancements.in_a_flash.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "in_a_flash": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:flash_furnace"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "underveil:burning_hands"
+}

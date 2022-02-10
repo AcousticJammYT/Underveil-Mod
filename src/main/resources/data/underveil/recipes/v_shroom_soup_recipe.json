@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "underveil:veilshroom"
+    },
+    {
+      "item": "underveil:veilshroom"
+    },
+    {
+      "item": "underveil:veilshroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "underveil:veilshroom_soup",
+    "count": 1
+  }
+}

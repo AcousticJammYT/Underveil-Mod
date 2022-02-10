@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diary3",
+    "name": "Audio Diary 3",
+    "description": "The third audio diary.",
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "music": {
+      "value": "CUSTOM:diary3"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

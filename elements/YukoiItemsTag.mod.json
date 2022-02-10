@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:YukoiWood"
+      },
+      {
+        "value": "CUSTOM:YukoiLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "yukoi_log",
+    "namespace": "forge"
+  }
+}

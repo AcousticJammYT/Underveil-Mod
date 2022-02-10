@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 60,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:DustSand"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.STAINED_GLASS#8"
+    },
+    "name": "dust_sand_to_glass",
+    "namespace": "mod"
+  }
+}

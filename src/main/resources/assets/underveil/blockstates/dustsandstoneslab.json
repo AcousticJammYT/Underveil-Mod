@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/dustsandstoneslab"
+    },
+    "type=top": {
+      "model": "underveil:block/dustsandstoneslab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/dustsandstoneslab_full"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.7,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:forge:bloodstone_unsmelt"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BloodstoneIngot"
+    },
+    "name": "raw_bloodstone_smelt",
+    "namespace": "mod"
+  }
+}

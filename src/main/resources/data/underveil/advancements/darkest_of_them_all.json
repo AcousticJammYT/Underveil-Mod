@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:darkite_ingot"
+    },
+    "title": {
+      "translate": "advancements.darkest_of_them_all.title"
+    },
+    "description": {
+      "translate": "advancements.darkest_of_them_all.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "darkest_of_them_all": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:darkite_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "underveil:deleted_mod_element",
+      "underveil:deleted_mod_element",
+      "underveil:deleted_mod_element",
+      "underveil:force_tnt_recipe"
+    ]
+  },
+  "parent": "underveil:callofthe_veil"
+}

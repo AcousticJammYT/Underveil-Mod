@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "underveil:blocks/wet_oak_planks"
+  }
+}

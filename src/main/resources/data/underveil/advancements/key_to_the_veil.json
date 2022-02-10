@@ -1,0 +1,39 @@
+{
+  "display": {
+    "background": "underveil:textures/incancentine_ore.png",
+    "icon": {
+      "item": "underveil:slipgrass"
+    },
+    "title": {
+      "translate": "advancements.key_to_the_veil.title"
+    },
+    "description": {
+      "translate": "advancements.key_to_the_veil.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "key_to_the_veil": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underveil:underveil_dimension"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

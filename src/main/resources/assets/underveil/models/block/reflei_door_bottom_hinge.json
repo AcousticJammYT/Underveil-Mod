@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "underveil:blocks/reflei_door_bottom",
+    "top": "underveil:blocks/reflei_door_top"
+  }
+}

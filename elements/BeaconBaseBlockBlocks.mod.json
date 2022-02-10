@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:IncancentineBlock"
+      },
+      {
+        "value": "CUSTOM:BurnstoneBlock"
+      },
+      {
+        "value": "CUSTOM:BloodstoneBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "beacon_base_blocks",
+    "namespace": "minecraft"
+  }
+}

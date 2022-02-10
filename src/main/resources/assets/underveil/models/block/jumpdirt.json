@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/caromdirt",
+    "up": "underveil:blocks/caromdirt",
+    "north": "underveil:blocks/caromdirt",
+    "east": "underveil:blocks/caromdirt",
+    "south": "underveil:blocks/caromdirt",
+    "west": "underveil:blocks/caromdirt",
+    "particle": "underveil:blocks/caromdirt"
+  }
+}

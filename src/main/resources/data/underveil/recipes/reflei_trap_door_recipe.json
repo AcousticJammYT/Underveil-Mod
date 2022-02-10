@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:reflei_planks"
+    },
+    "1": {
+      "item": "underveil:reflei_planks"
+    },
+    "2": {
+      "item": "underveil:reflei_planks"
+    },
+    "3": {
+      "item": "underveil:reflei_planks"
+    },
+    "4": {
+      "item": "underveil:reflei_planks"
+    },
+    "5": {
+      "item": "underveil:reflei_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:reflei_trap_door",
+    "count": 2
+  }
+}

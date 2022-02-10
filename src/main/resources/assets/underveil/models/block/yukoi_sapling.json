@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "underveil:blocks/yukoi_sapling",
+    "particle": "underveil:blocks/yukoi_sapling"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/gilded_veilstone",
+    "up": "underveil:blocks/gilded_veilstone",
+    "north": "underveil:blocks/gilded_veilstone",
+    "east": "underveil:blocks/gilded_veilstone",
+    "south": "underveil:blocks/gilded_veilstone",
+    "west": "underveil:blocks/gilded_veilstone",
+    "particle": "underveil:blocks/gilded_veilstone"
+  }
+}

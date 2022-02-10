@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "underveil:blocks/wet_oak_door_bottom",
+    "top": "underveil:blocks/wet_oak_door_top"
+  }
+}

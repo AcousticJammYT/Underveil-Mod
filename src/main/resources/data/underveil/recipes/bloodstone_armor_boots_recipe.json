@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:bloodstone_ingot"
+    },
+    "2": {
+      "item": "underveil:bloodstone_ingot"
+    },
+    "3": {
+      "item": "underveil:bloodstone_ingot"
+    },
+    "5": {
+      "item": "underveil:bloodstone_ingot"
+    }
+  },
+  "result": {
+    "item": "underveil:bloodstone_armor_boots",
+    "count": 1
+  }
+}

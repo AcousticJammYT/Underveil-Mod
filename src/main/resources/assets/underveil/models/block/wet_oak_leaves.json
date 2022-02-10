@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "underveil:blocks/wet_oak_leaves",
+    "particle": "underveil:blocks/wet_oak_leaves"
+  }
+}

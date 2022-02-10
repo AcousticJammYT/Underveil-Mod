@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/deepveil",
+    "up": "underveil:blocks/deepveil",
+    "north": "underveil:blocks/deepveil",
+    "east": "underveil:blocks/deepveil",
+    "south": "underveil:blocks/deepveil",
+    "west": "underveil:blocks/deepveil",
+    "particle": "underveil:blocks/deepveil"
+  }
+}

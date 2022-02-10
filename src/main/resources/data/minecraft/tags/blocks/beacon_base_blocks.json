@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:burnstone_block",
+    "underveil:bloodstone_block",
+    "underveil:incancentine_block"
+  ]
+}

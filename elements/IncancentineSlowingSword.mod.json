@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "slowing_incancentine_sword",
+    "customModelName": "Normal",
+    "name": "Incancentine Slowing Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 6.0,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 8.0,
+    "usageCount": 2061,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IncancentineSlowingSwordLivingEntityIsHitWithTool"
+    },
+    "onItemInUseTick": {
+      "name": "IncancentineSlowingSwordToolInHandTick"
+    }
+  }
+}

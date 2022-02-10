@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:underveil_dimension"
+    },
+    "title": {
+      "translate": "advancements.callofthe_veil.title"
+    },
+    "description": {
+      "translate": "advancements.callofthe_veil.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "callofthe_veil": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "underveil:key_to_the_veil"
+}

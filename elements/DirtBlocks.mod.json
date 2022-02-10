@@ -1,0 +1,47 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Slipgrass"
+      },
+      {
+        "value": "CUSTOM:SlipDirt"
+      },
+      {
+        "value": "CUSTOM:Jumpgrass"
+      },
+      {
+        "value": "CUSTOM:Jumpdirt"
+      },
+      {
+        "value": "CUSTOM:Flisgrass"
+      },
+      {
+        "value": "CUSTOM:Flisdirt"
+      },
+      {
+        "value": "CUSTOM:Slowdirt"
+      },
+      {
+        "value": "CUSTOM:Slowgrass"
+      },
+      {
+        "value": "CUSTOM:Poigrass"
+      },
+      {
+        "value": "CUSTOM:Poidirt"
+      },
+      {
+        "value": "CUSTOM:Withergrass"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

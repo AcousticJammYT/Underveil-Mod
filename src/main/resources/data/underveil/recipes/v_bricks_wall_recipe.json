@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:veilstone_bricks"
+    },
+    "1": {
+      "item": "underveil:veilstone_bricks"
+    },
+    "2": {
+      "item": "underveil:veilstone_bricks"
+    },
+    "3": {
+      "item": "underveil:veilstone_bricks"
+    },
+    "4": {
+      "item": "underveil:veilstone_bricks"
+    },
+    "5": {
+      "item": "underveil:veilstone_bricks"
+    }
+  },
+  "result": {
+    "item": "underveil:veilstone_bricks_wall",
+    "count": 6
+  }
+}

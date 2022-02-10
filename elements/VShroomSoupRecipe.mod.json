@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Veilshroom"
+      },
+      {
+        "value": "CUSTOM:Veilshroom"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Veilshroom"
+      },
+      {
+        "value": "Items.BOWL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VeilshroomSoup"
+    },
+    "name": "v_shroom_soup_recipe",
+    "namespace": "mod"
+  }
+}

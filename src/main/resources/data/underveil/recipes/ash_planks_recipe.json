@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "underveil:ash_log"
+    }
+  ],
+  "result": {
+    "item": "underveil:ash_planks",
+    "count": 4
+  }
+}

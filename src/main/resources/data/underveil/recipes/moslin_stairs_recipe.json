@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:moslin_planks"
+    },
+    "3": {
+      "item": "underveil:moslin_planks"
+    },
+    "4": {
+      "item": "underveil:moslin_planks"
+    },
+    "6": {
+      "item": "underveil:moslin_planks"
+    },
+    "7": {
+      "item": "underveil:moslin_planks"
+    },
+    "8": {
+      "item": "underveil:moslin_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:moslin_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "underveil:blocks/reflei_planks",
+    "top": "underveil:blocks/reflei_planks",
+    "side": "underveil:blocks/reflei_planks"
+  }
+}

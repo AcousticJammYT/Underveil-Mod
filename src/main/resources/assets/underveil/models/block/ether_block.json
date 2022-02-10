@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/ether_block_top",
+    "up": "underveil:blocks/ether_block_top",
+    "north": "underveil:blocks/ether_block_front",
+    "east": "underveil:blocks/ether_block_top",
+    "south": "underveil:blocks/ether_block_top",
+    "west": "underveil:blocks/ether_block_top",
+    "particle": "underveil:blocks/ether_block_top"
+  }
+}

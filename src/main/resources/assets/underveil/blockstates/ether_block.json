@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "underveil:block/ether_block"
+    },
+    "facing=east": {
+      "model": "underveil:block/ether_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "underveil:block/ether_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "underveil:block/ether_block",
+      "y": 270
+    }
+  }
+}

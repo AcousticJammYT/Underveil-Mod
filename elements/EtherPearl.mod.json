@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "etherpearl",
+    "customModelName": "Normal",
+    "name": "Ether Pearl",
+    "specialInfo": [
+      "§7Throw this at another entity."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Underveil"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.enderpearl.throw"
+    },
+    "hasGlow": true,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "EtherPearlRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:EtherFragment"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "EtherPearlBulletHitsLivingEntity"
+    }
+  }
+}

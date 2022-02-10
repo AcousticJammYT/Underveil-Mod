@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:wet_oak_planks"
+    },
+    "3": {
+      "item": "underveil:wet_oak_planks"
+    },
+    "4": {
+      "item": "underveil:wet_oak_planks"
+    },
+    "6": {
+      "item": "underveil:wet_oak_planks"
+    },
+    "7": {
+      "item": "underveil:wet_oak_planks"
+    },
+    "8": {
+      "item": "underveil:wet_oak_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:wet_oak_stairs",
+    "count": 4
+  }
+}

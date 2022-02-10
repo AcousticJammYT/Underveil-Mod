@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/caromdirt",
+    "up": "underveil:blocks/caromgrass_block_top",
+    "north": "underveil:blocks/caromgrass_block_side",
+    "east": "underveil:blocks/caromgrass_block_side",
+    "south": "underveil:blocks/caromgrass_block_side",
+    "west": "underveil:blocks/caromgrass_block_side",
+    "particle": "underveil:blocks/caromdirt"
+  }
+}

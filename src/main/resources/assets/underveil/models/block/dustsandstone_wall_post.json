@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "underveil:blocks/dustsandstone_bottom",
+    "particle": "underveil:blocks/dustsandstone_bottom"
+  }
+}

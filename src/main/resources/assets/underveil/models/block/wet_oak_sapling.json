@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "underveil:blocks/wet_oak_sapling",
+    "particle": "underveil:blocks/wet_oak_sapling"
+  }
+}

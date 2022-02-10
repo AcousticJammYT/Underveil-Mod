@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Autorun",
+    "splashName": "Splash Potion of Autorun",
+    "lingeringName": "Lingering Potion of Autorun",
+    "arrowName": "Arrow of Autorun",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Autorun"
+        },
+        "duration": 400,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

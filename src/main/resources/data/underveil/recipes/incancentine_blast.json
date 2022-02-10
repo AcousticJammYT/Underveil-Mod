@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 40,
+  "ingredient": {
+    "tag": "forge:incan_smelt"
+  },
+  "result": {
+    "item": "underveil:incancentine_ingot"
+  }
+}

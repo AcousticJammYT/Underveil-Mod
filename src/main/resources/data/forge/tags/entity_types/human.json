@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "vindicator",
+    "enderman",
+    "piglin",
+    "villager",
+    "wandering_trader",
+    "underveil:everlasting_king",
+    "pillager",
+    "witch",
+    "player",
+    "underveil:walker",
+    "zombie",
+    "underveil:archer_dweller",
+    "underveil:prince_of_the_veil",
+    "piglin_brute",
+    "underveil:darkened_swordsman",
+    "underveil:veil_king",
+    "illusioner",
+    "wither_skeleton",
+    "underveil:lasting_king",
+    "underveil:swordswoman_dweller",
+    "player",
+    "zombified_piglin",
+    "underveil:princess_of_the_veil",
+    "zombie_villager",
+    "underveil:darkened_swordswoman"
+  ]
+}

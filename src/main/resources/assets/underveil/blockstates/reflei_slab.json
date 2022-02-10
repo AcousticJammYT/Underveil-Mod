@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "underveil:block/reflei_slab"
+    },
+    "type=top": {
+      "model": "underveil:block/reflei_slab_top"
+    },
+    "type=double": {
+      "model": "underveil:block/reflei_slab_full"
+    }
+  }
+}

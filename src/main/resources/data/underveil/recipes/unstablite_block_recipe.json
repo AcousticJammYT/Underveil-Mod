@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:unstablite_gem"
+    },
+    "1": {
+      "item": "underveil:unstablite_gem"
+    },
+    "2": {
+      "item": "underveil:unstablite_gem"
+    },
+    "3": {
+      "item": "underveil:unstablite_gem"
+    },
+    "4": {
+      "item": "underveil:unstablite_gem"
+    },
+    "5": {
+      "item": "underveil:unstablite_gem"
+    },
+    "6": {
+      "item": "underveil:unstablite_gem"
+    },
+    "7": {
+      "item": "underveil:unstablite_gem"
+    },
+    "8": {
+      "item": "underveil:unstablite_gem"
+    }
+  },
+  "result": {
+    "item": "underveil:unstablite_block",
+    "count": 1
+  }
+}

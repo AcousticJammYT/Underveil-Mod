@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "underveil:blocks/veilstone_bricks",
+    "top": "underveil:blocks/veilstone_bricks",
+    "side": "underveil:blocks/veilstone_bricks"
+  }
+}

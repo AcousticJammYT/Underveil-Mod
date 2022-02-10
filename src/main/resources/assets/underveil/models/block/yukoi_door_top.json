@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "underveil:blocks/yukoi_door_bottom",
+    "top": "underveil:blocks/yukoi_door_top"
+  }
+}

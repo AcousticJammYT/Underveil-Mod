@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "underveil:blocks/slidesandstone_bottom",
+    "particle": "underveil:blocks/slidesandstone_bottom"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "underveil:veilstone_bricks_wall",
+    "underveil:slidesandstone_wall",
+    "underveil:roughveil_wall",
+    "underveil:dustsandstone_wall",
+    "underveil:deepveil_wall"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:moslin_planks"
+    },
+    "1": {
+      "item": "underveil:moslin_planks"
+    },
+    "2": {
+      "item": "underveil:moslin_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:moslin_slab",
+    "count": 6
+  }
+}

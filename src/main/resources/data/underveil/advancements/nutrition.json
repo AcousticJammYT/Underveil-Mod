@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "underveil:cereal_full"
+    },
+    "title": {
+      "translate": "advancements.nutrition.title"
+    },
+    "description": {
+      "translate": "advancements.nutrition.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nutrition": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "underveil:key_to_the_veil"
+}

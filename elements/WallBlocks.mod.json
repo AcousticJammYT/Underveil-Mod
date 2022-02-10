@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:VeilstoneBricksWall"
+      },
+      {
+        "value": "CUSTOM:DustsandstoneWall"
+      },
+      {
+        "value": "CUSTOM:SlidesandstoneWall"
+      },
+      {
+        "value": "CUSTOM:DeepveilWall"
+      },
+      {
+        "value": "CUSTOM:RoughveilWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

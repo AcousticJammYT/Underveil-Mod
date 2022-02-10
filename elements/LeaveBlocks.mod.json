@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AshLeaves"
+      },
+      {
+        "value": "CUSTOM:MoslinLeaves"
+      },
+      {
+        "value": "CUSTOM:WetOakLeaves"
+      },
+      {
+        "value": "CUSTOM:YukoiLeaves"
+      },
+      {
+        "value": "CUSTOM:RefleiLeaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "underveil:blocks/reflei_log_side",
+    "particle": "underveil:blocks/reflei_log_side"
+  }
+}

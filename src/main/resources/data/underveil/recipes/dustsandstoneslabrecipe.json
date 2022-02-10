@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:dust_sandstone"
+    },
+    "1": {
+      "item": "underveil:dust_sandstone"
+    },
+    "2": {
+      "item": "underveil:dust_sandstone"
+    }
+  },
+  "result": {
+    "item": "underveil:dustsandstoneslab",
+    "count": 6
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "underveil:blocks/reflei_planks",
+    "particle": "underveil:blocks/reflei_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "underveil:blocks/ashwood_sapling",
+    "particle": "underveil:blocks/ashwood_sapling"
+  }
+}

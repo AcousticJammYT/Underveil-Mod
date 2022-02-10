@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/darkite_ore",
+    "up": "underveil:blocks/darkite_ore",
+    "north": "underveil:blocks/darkite_ore",
+    "east": "underveil:blocks/darkite_ore",
+    "south": "underveil:blocks/darkite_ore",
+    "west": "underveil:blocks/darkite_ore",
+    "particle": "underveil:blocks/darkite_ore"
+  }
+}

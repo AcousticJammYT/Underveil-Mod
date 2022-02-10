@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Deepveil"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Deepveil"
+      },
+      {
+        "value": "CUSTOM:Deepveil"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Deepveil"
+      },
+      {
+        "value": "CUSTOM:Deepveil"
+      },
+      {
+        "value": "CUSTOM:Deepveil"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DeepveilStairs"
+    },
+    "name": "dv_stairs",
+    "namespace": "mod"
+  }
+}

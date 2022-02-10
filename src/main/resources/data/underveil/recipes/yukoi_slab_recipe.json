@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "underveil:yukoi_planks"
+    },
+    "1": {
+      "item": "underveil:yukoi_planks"
+    },
+    "2": {
+      "item": "underveil:yukoi_planks"
+    }
+  },
+  "result": {
+    "item": "underveil:yukoi_slab",
+    "count": 6
+  }
+}

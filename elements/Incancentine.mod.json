@@ -1,0 +1,77 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:IncancentineIngot"
+      },
+      {
+        "value": "CUSTOM:IncancentinePickaxe"
+      },
+      {
+        "value": "CUSTOM:IncancentineAxe"
+      },
+      {
+        "value": "CUSTOM:IncancentineSword"
+      },
+      {
+        "value": "CUSTOM:IncancentineShovel"
+      },
+      {
+        "value": "CUSTOM:IncancentineHoe"
+      },
+      {
+        "value": "CUSTOM:IncancentineArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:IncancentineArmor.body"
+      },
+      {
+        "value": "CUSTOM:IncancentineArmor.legs"
+      },
+      {
+        "value": "CUSTOM:IncancentineArmor.boots"
+      },
+      {
+        "value": "CUSTOM:IncancentineOre"
+      },
+      {
+        "value": "CUSTOM:IncancentineBlock"
+      },
+      {
+        "value": "CUSTOM:IncancentineSoulSword"
+      },
+      {
+        "value": "CUSTOM:RawIncancentine"
+      },
+      {
+        "value": "CUSTOM:IncancentinePoiblade"
+      },
+      {
+        "value": "CUSTOM:HardenedIncancentineSword"
+      },
+      {
+        "value": "CUSTOM:IncancentineSlowingSword"
+      },
+      {
+        "value": "CUSTOM:IncancentineLifesword"
+      },
+      {
+        "value": "CUSTOM:IncancentineBombSword"
+      },
+      {
+        "value": "CUSTOM:IncancentineWitherBlade"
+      },
+      {
+        "value": "CUSTOM:DemonicIncancentineSword"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "incancentine",
+    "namespace": "forge"
+  }
+}

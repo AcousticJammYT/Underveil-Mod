@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "underveil:blocks/flash_furnace_top",
+    "up": "underveil:blocks/flash_furnace_top",
+    "north": "underveil:blocks/flash_furnace_front",
+    "east": "underveil:blocks/flash_furnace_side",
+    "south": "underveil:blocks/flash_furnace_side",
+    "west": "underveil:blocks/flash_furnace_side",
+    "particle": "underveil:blocks/flash_furnace_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "underveil:blocks/moslin_door_bottom",
+    "top": "underveil:blocks/moslin_door_top"
+  }
+}
