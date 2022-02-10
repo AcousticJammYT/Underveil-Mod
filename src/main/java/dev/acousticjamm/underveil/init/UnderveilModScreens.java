@@ -17,6 +17,7 @@ import dev.acousticjamm.underveil.client.gui.FFGUIScreen;
 import dev.acousticjamm.underveil.client.gui.EtherChestGUIScreen;
 import dev.acousticjamm.underveil.client.gui.DwellerTradeGUIScreen;
 import dev.acousticjamm.underveil.client.gui.CrateGUIScreen;
+import dev.acousticjamm.underveil.client.gui.BackpackGUIScreen;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 public class UnderveilModScreens {
@@ -29,6 +30,7 @@ public class UnderveilModScreens {
 			MenuScreens.register(UnderveilModMenus.FORGING_TABLE_GUI, ForgingTableGuiScreen::new);
 			MenuScreens.register(UnderveilModMenus.ETHER_CHEST_GUI, EtherChestGUIScreen::new);
 			MenuScreens.register(UnderveilModMenus.THIEF_GUI, ThiefGuiScreen::new);
+			MenuScreens.register(UnderveilModMenus.BACKPACK_GUI, BackpackGUIScreen::new);
 		});
 	}
 }

@@ -21,6 +21,7 @@ import dev.acousticjamm.underveil.world.inventory.FFGUIMenu;
 import dev.acousticjamm.underveil.world.inventory.EtherChestGUIMenu;
 import dev.acousticjamm.underveil.world.inventory.DwellerTradeGUIMenu;
 import dev.acousticjamm.underveil.world.inventory.CrateGUIMenu;
+import dev.acousticjamm.underveil.world.inventory.BackpackGUIMenu;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class UnderveilModMenus {
@@ -34,6 +35,8 @@ public class UnderveilModMenus {
 	public static final MenuType<EtherChestGUIMenu> ETHER_CHEST_GUI = register("ether_chest_gui",
 			(id, inv, extraData) -> new EtherChestGUIMenu(id, inv, extraData));
 	public static final MenuType<ThiefGuiMenu> THIEF_GUI = register("thief_gui", (id, inv, extraData) -> new ThiefGuiMenu(id, inv, extraData));
+	public static final MenuType<BackpackGUIMenu> BACKPACK_GUI = register("backpack_gui",
+			(id, inv, extraData) -> new BackpackGUIMenu(id, inv, extraData));
 
 	private static <T extends AbstractContainerMenu> MenuType<T> register(String registryname, IContainerFactory<T> containerFactory) {
 		MenuType<T> menuType = new MenuType<T>(containerFactory);

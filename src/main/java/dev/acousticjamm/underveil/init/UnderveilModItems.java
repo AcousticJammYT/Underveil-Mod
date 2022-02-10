@@ -71,6 +71,7 @@ import dev.acousticjamm.underveil.item.BloodstoneIngotItem;
 import dev.acousticjamm.underveil.item.BloodstoneHoeItem;
 import dev.acousticjamm.underveil.item.BloodstoneAxeItem;
 import dev.acousticjamm.underveil.item.BloodstoneArmorItem;
+import dev.acousticjamm.underveil.item.BackpackItem;
 import dev.acousticjamm.underveil.item.AudioDiary6Item;
 import dev.acousticjamm.underveil.item.AudioDiary5Item;
 import dev.acousticjamm.underveil.item.AudioDiary4Item;
@@ -330,6 +331,7 @@ public class UnderveilModItems {
 	public static final Item VEIL_CASTLE_SPAWN_1 = register(
 			new SpawnEggItem(UnderveilModEntities.VEIL_CASTLE_SPAWN_1, -1, -1, new Item.Properties().tab(null))
 					.setRegistryName("veil_castle_spawn_1_spawn_egg"));
+	public static final Item BACKPACK = register(new BackpackItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
